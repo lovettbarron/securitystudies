@@ -11,4 +11,5 @@ First project is an attempt to replicate the results and analysis from Andrew Sh
 ### [01data](01data.ipynb)
 
 Loading of data, exploration, rendering of simple maps.
-![IED attacks](render/01_iedattack.png)
+![IED attacks](render/01_ied_total.png)
+![IDF related attacks](render/01_idf.png)
